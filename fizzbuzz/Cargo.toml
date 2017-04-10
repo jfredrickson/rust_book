@@ -1,0 +1,6 @@
+[package]
+name = "fizzbuzz"
+version = "0.1.0"
+authors = ["Jeff Fredrickson <jeff.fredrickson@gmail.com>"]
+
+[dependencies]
